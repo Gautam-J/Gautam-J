@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://linkedin.com/in/gj-07" target="_blank"><img align="center" alt="Gautam J | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>
 <a href="https://www.instagram.com/gautam.j/" target="_blank"><img align="center" alt="Gautam J | Instagram" width="30px" src="./readme_media/instagram.png" /></a>
-<a href="https://twitter.com/GautamJayapal" target="_blank"><img align="center" alt="Gautam J | Twitter" width="30px" src="./readme_media/twitter.png" /></a>
+<a href="https://twitter.com/gautamj02" target="_blank"><img align="center" alt="Gautam J | Twitter" width="30px" src="./readme_media/twitter.png" /></a>
 
 <br/>
 
