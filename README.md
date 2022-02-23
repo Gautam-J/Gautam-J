@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p float="left">
-  <img align="center" alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=Gautam-J&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img align="center" alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-J&theme=gruvbox&hide_border=true" />
+  <img align="center" alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=Gautam-J&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" width="45%" />
+  <img align="center" alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-J&theme=gruvbox&hide_border=true" width="45%" />
 </p>
 
 Click <a href="https://https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.
