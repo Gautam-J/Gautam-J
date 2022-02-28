@@ -30,4 +30,4 @@
  -->
 
 
-Click <a href="https://https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.
+Click <a href="https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.
