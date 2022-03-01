@@ -19,8 +19,8 @@
 * 💙 Love Open Source!
 
 <p align="center">
-  <img align="center" alt="Github Contributions Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/overview.svg" width="40%">&nbsp;&nbsp;
-  <img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&layout=compact" width="45%">
+  <img align="center" alt="Github Contributions Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/overview.svg">&nbsp;&nbsp;
+  <img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&layout=compact" height="200px">
 <!--   <img align="center" alt="Github Languages Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/languages.svg"> -->
 </p>
 
