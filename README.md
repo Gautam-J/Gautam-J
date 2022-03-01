@@ -13,16 +13,13 @@
  
  ---
  
-💻 Developer with 3+ years of experience in Machine Learning and Deep Learning.
+* 💻 Developer with 3+ years of experience in Machine Learning and Deep Learning.
+* 🧠 I like to explore datasets and fine tune large neural networks.
+* 💾 Other areas of expertise include Backend, Computer Vision, and Linux.
+* 💙 Love Open Source!
 
-🧠 I like to explore datasets and fine tune large neural networks.
-
-💾 Other areas of expertise include Backend, Computer Vision, and Linux.
-
-💙 Love Open Source!
-
-<p float="left">
-  <img align="center" alt="Github Contributions Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/overview.svg" height="220px">&nbsp;
+<p align="center">
+  <img align="center" alt="Github Contributions Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/overview.svg" height="220px">&nbsp;&nbsp;
   <img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&layout=compact" height="210px">
 <!--   <img align="center" alt="Github Languages Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/languages.svg"> -->
 </p>
