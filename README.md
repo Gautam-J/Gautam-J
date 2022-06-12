@@ -1,10 +1,4 @@
-<!-- <p float="left">
-  <img align="center" alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=Gautam-J&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" width="45%" />
-  <img align="center" alt="GitHub streaks stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-J&theme=gruvbox&hide_border=true" width="45%" />
-</p> -->
-
- 
- <p align="left">
+<p align="left">
   <img align="center" alt="Profile Visit Count" src="https://komarev.com/ghpvc/?username=Gautam-J&style=for-the-badge" />&nbsp;
   <a href="https://linkedin.com/in/gj-07" target="_blank"><img align="center" alt="Gautam J | LinkedIn" width="30px" src="./readme_media/linkedin.png" /></a>&nbsp;
   <a href="https://www.instagram.com/gautam.j/" target="_blank"><img align="center" alt="Gautam J | Instagram" width="30px" src="./readme_media/instagram.png" /></a>&nbsp;
@@ -19,9 +13,8 @@
 * 💙 Love Open Source!
 
 <p align="center">
-  <img align="center" alt="Github Contributions Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/overview.svg">&nbsp;&nbsp;
-  <img align="center" alt="Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&layout=compact" height="200px">
-<!--   <img align="center" alt="Github Languages Stats" src="https://github.com/Gautam-J/github-stats/blob/master/generated/languages.svg"> -->
+  <img align="center" alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=Gautam-J&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" width="45%" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&exclude_repo=dotfiles&layout=compact&theme=gruvbox&hide=html&hide_border=true" width="38%" />
 </p>
 
 Click <a href="https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.
