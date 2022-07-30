@@ -12,12 +12,15 @@
 * 💾 Other areas of expertise include Backend, Computer Vision, and Linux.
 * 💙 Love Open Source!
 
+Click <a href="https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.<br/>
+Read my blog <a href="https://gautam-j.github.io" target="_blank">here</a>.
+
 <p align="center">
   <img align="center" alt="GitHub Contributions Stats" src="https://github-readme-stats.vercel.app/api?username=Gautam-J&count_private=true&show_icons=true&theme=dark&hide_border=true" width="53%" />
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautam-J&exclude_repo=linux-dotfiles&layout=compact&theme=dark&hide=html,css&hide_border=true" width="46%" />
 </p>
 
-Click <a href="https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.
+
 
 ### Like my work?
 <a href="https://www.buymeacoffee.com/gautamj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
