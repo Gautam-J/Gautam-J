@@ -7,9 +7,9 @@
  
  ---
  
-* 💻 Developer with 3+ years of experience in Machine Learning and Deep Learning.
+* 💻 Developer with 4+ years of experience in Machine Learning and Deep Learning.
 * 🧠 I like to explore datasets and fine tune large neural networks.
-* 💾 Other areas of expertise include Backend, Computer Vision, and Linux.
+* 💾 Other areas of expertise include Web dev, Computer Vision, and Linux.
 * 💙 Love Open Source!
 
 Click <a href="https://portfolio-gautam-j.vercel.app" target="_blank">here</a> to visit my Portfolio website.<br/>
